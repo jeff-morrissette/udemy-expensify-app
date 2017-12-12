@@ -1,2 +1,6 @@
 node_modules/
 indecision-app_sublime_project.sublime-workspace
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
