@@ -1,3 +1,5 @@
 node_modules/
 indecision-app_sublime_project.sublime-workspace
 public/dist/
+.env.test
+.env.development
