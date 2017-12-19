@@ -1,11 +1,16 @@
+* {
+	box-sizing: border-box;
+}
+
 html {
 	font-size: 62.5%; // 16 * .625 = 10 (base 10)
 }
 
 body {
-	background: white;
+	color: $dark-grey;
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: $m-size; //16px
+	line-height: 1.6;
 }
 
 button {
